@@ -38,7 +38,7 @@ registration:
   socialLogins: ["google", "facebook", "github", "discord", "openid"]
   allowedDomains:
     - "example.com"
-    - "anotherdomain.com"
+    - "gmail.com"
 endpoints:
   assistants:
     # Disable Assistants Builder Interface by setting to `true`
